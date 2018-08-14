@@ -3,12 +3,12 @@
 
 
 
-# 1.	What is the CloudSearch?
+# 	What is the CloudSearch?
 
-## 1.1. 개요
+## 개요
 : 원하는 시점에  ELK Stack( Elastic Search / Logstash(or Beats) / Kibana )을 배포하여 수집 – 저장 – 시각화를 위한 인프라 및 SW를 동적으로 제공한다. Docker 기반의 Container 서비스를 제공하며, 사용자가 불필요한 H/W Spec에 대해 고민할 필요 없이Pre-Defined된 Stack으로 쉽고 빠르게 배포되어 사용자에게 제공됨  다양한 형태의 로그를 최소의 비용으로 안정적으로 검색/분석/모니터링할 수 있는 서비스를 지향한다.
 
-## 1.2/ 차별점
+## 차별점
 ![][1.2]
 
 # 2. 메인화면
