@@ -45,11 +45,13 @@
 
 ## 2.6. 로그인
 : 사용 가능한 서비스 계정으로 서비스 로그인을 제공하는 페이지.
-![테스트입니다.][2-6]
+
+![][2-6]
 
 [1.2]:   https://raw.githubusercontent.com/hellotherecsy/cloudsearch_temp/master/images/1-2.png
 [2-1-1]: https://raw.githubusercontent.com/hellotherecsy/cloudsearch_temp/master/images/2-1-1.png
 [2-1-2]: https://raw.githubusercontent.com/hellotherecsy/cloudsearch_temp/master/images/2-1-2.png
 [2-2]:   https://raw.githubusercontent.com/hellotherecsy/cloudsearch_temp/master/images/2-2.png
 [2-6]:   https://raw.githubusercontent.com/hellotherecsy/cloudsearch_temp/master/images/2-6.png
+
 
